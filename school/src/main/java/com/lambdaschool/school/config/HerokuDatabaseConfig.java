@@ -1,4 +1,5 @@
-package com.lambdaschool.school.config;//package com.lambdaschool.restaurants.config;
+package com.lambdaschool.school.config;
+//package com.lambdaschool.restaurants.config;
 //
 //import com.zaxxer.hikari.HikariConfig;
 //import com.zaxxer.hikari.HikariDataSource;
